@@ -44,5 +44,3 @@ styles for paragraph in starter template
     font-size: 1.25rem;
     font-weight: 300;
 }
-
-button is vearing to the left on contact page when its on a large screen
