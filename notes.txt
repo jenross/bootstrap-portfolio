@@ -38,3 +38,11 @@ targeting single element in screen sizes
 
 
 Images in Bootstrap are made responsive with .img-fluid. max-width: 100%; and height: auto; are applied to the image so that it scales with the parent element.
+
+styles for paragraph in starter template 
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+button is vearing to the left on contact page when its on a large screen

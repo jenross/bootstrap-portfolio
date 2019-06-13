@@ -14,3 +14,12 @@ h1 {
 .nav-item {
     text-align: right; 
 }
+
+main div form label {
+    color: grey;
+}
+
+.btn-secondary:hover {
+    background-color:#424242;
+}
+
