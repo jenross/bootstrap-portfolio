@@ -1,7 +1,16 @@
+* {
+    box-sizing: border-box; 
+}
+
 body {
     background-color: black; 
 }
 
-.navbar {
-    display: flex;
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.nav-item {
+    text-align: right; 
 }
