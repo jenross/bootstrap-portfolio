@@ -23,14 +23,35 @@ main div form label {
     background-color:#424242;
 }
 
-.bio {
+.sub-header {
     font-size: 1.25rem;
     font-weight: 300;
     color: white;
     text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, .5);
+    text-align: center; 
 }
 
-.bio a {
+.lead a {
     text-decoration: none;
     color: grey;
+}
+
+footer {
+    font-size: 12px;
+}
+
+.display-4 {
+    color: black;
+    font-size: 35px;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.jumbotron {
+    padding-bottom: 5px;
+    padding-top: 20px;
+}
+
+.lead {
+    padding-top: 10px;
 }
