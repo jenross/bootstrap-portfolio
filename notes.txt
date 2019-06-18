@@ -47,6 +47,5 @@ styles for paragraph in starter template
 
 current issues: 
 
-*contact gets larger and smaller, doesn't scale totally up/down properly 
 *still not sure about styling of jumbotron
 *so much space between main content and footer on larger screens(check imac)
